@@ -8,8 +8,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@pakforlay/add-watermark": "1.0.7",
     "@richdevid/teapropro": "1.1.4",
+    "@pakforlay/add-watermark": "1.0.7",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.3"
