@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "stelyukk: "1.1.4",
     "teapropro": "1.1.6",
     "@pakforlay/add-watermark": "1.0.7",
     "react": "^18",
